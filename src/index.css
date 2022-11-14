@@ -1,0 +1,9 @@
+.all{
+  padding:20px;
+  margin: 20px;
+}
+button{
+  text-decoration: none;
+  color: white;
+  background-color: grey;
+}
