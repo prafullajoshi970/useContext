@@ -15,7 +15,7 @@ const Navbar = () => {
         <button><Link to="/Service">Service</Link></button>&nbsp;&nbsp;
         <br/>
         <br/>
-        <button onClick={()=>{changeTheme()}}>Toggle Theme to {isLight?"true":"false"}</button> 
+        <button onClick={()=>{changeTheme()}}>Toggle Theme to {isLight?"Dark":"Light"}</button> 
     </div>
   )
 }
